@@ -5,6 +5,7 @@ __pycache__/
 
 # C extensions
 *.so
+/.idea
 
 # myself
 打包命令行.txt

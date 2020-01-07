@@ -6,6 +6,12 @@ __pycache__/
 # C extensions
 *.so
 
+# myself
+打包命令行.txt
+2020马原刷题.rar
+/2020马原刷题
+a.spec
+
 # Distribution / packaging
 .Python
 build/

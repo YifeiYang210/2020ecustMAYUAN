@@ -1,10 +1,12 @@
 # -*- coding:utf8 -*-
 from tkinter import *
 from pandas import read_excel
+import xlrd # 打包用
+import pyexpat # 打包用
 
 root = Tk()
 root.title("2020马原选择题刷题系统")
-root.geometry("450x375")
+root.geometry("800x600")
 
 # 读取文件数据
 sq = read_excel('single_question.xlsx',sheet_name='Sheet1',header=0)

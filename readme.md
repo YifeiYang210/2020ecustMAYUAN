@@ -14,7 +14,11 @@
 
 可通过git clone下载本项目，也可右转百度网盘。
 
-下载地址： [网页链接](https://pan.baidu.com/s/1EWK69nF_cGFckmXyIRjeSQ) 
+下载地址(大佬向，需要配置安装环境,95KB)： [网页链接](https://pan.baidu.com/s/1EWK69nF_cGFckmXyIRjeSQ) ()
+
+下载地址(新手友好向，)：[百度云链接](https://pan.baidu.com/s/1vZPQ8TmMUbTuwCTBO_xrIA)
+
+
 
 `pip install pandas`
 `pip install xlrd `

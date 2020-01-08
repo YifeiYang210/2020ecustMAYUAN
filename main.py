@@ -2,6 +2,8 @@
 from tkinter import *
 from pandas import read_excel
 import random
+import xlrd # 打包用
+import pyexpat # 打包用
 
 root = Tk()
 root.title("2020马原选择题刷题系统v1.2")

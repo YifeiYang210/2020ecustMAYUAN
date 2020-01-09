@@ -2,6 +2,11 @@
 
 ## 1.写在前面
 
+马克思主义原理的腾讯文档答案,，由梁天一大佬提供(ltytql!)
+选择题:[腾讯文档链接](https://docs.qq.com/doc/DYUloVUtPZWZyQWZi)
+简答题: [腾讯文档链接](https://docs.qq.com/doc/DYVV5eHlUWWVvbGJn)
+欢迎大家提出意见,修改错误
+
 非常欢迎大家试用本刷题系统！
 
 本项目作者：机动学院17级丁泓宇(已征得本人同意转发，仅用于学习交流)
@@ -14,7 +19,9 @@
 No picture, No truth:
 ![random](readme.assets/random.png)
 
-## 2.库依赖
+## 2.软件安装：
+
+==稳定小白版v1.2：[百度云链接](https://pan.baidu.com/s/1VbYIruMvPKrF33Xqk88ZbA)==
 
 可通过git clone下载本项目，也可右转百度网盘。
 
@@ -41,7 +48,7 @@ No picture, No truth:
 
 (若出现问题请参考：https://www.jianshu.com/p/65cd9a72c1b0)
 
-## 4.联系作者
+## 3.联系作者
 
 系统中可能存在问题和漏洞，希望大家及时指出，也希望大家对我的代码提出优化建议和方案。
 
